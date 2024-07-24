@@ -15,7 +15,7 @@ git status
 - Add the files into the staging area
 git add .
 
-- To save it specific to file
+- If you want to save it specific to the file name
 git add "(name of the file)"
 
 - Create a commit
