@@ -1,0 +1,11 @@
+.color-example {
+    background-color: rgba(31, 186, 31, 0.597);
+}
+
+.background-example {
+    background-image: url('Pink\ Palaka.jpg');
+    height: 600px;
+    width: 600px;
+    background-position: center;
+    opacity: 40px;
+}
