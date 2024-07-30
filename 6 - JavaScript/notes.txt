@@ -1,0 +1,10 @@
+// To connect, go to your browser, Right click, Inspect, Look for "Console"
+// Go back to VS Code, type the code:
+
+console.log("Connected")
+
+// Add semi-colon to javascript code, not necessary but it is best practice
+// Code will still work without the semi-colon
+// if the whole function needs to be visible, "var" is good but "let" is less error-prone
+// Boolean is considered numeric since True is equals to 1 and False is equals to 0
+// Equal to "==" (2 equal symbols) "=" (assignment operator)
